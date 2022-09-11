@@ -1,4 +1,4 @@
-# Music recommenders project
+# Music hit prediction and recommenders project
 
 I authored two Jupyter notebooks for <a href='https://www.inspiritai.com/'>Inspirit AI</a>'s AI Scholars program for high schoolers. The two notebooks (numbered 3 and 4) do the following:
 
