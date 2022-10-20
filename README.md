@@ -6,3 +6,5 @@ I authored two Jupyter notebooks for <a href='https://www.inspiritai.com/'>Inspi
 2. Notebook 4 is a bonus notebook that discusses how Spotify's timbre components were derived, and teaches the students how Principal Components Analysis works.
 
 While I am unable to share the notebooks publicly, please <a href="mailto:aditya.chander@yale.edu">get in touch with me via email</a> if you want to find out more about these notebooks. 
+
+I am also working on the problem of hit song prediction and music recommendation beyond the scope of the Inspirit AI curriculum. 
